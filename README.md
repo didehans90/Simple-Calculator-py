@@ -1,6 +1,6 @@
 # Simple Calculator
 
-A small calculator made in Python while learning programming fundamentals.
+A small calculator made in Python.
 
 ## Features
 
@@ -17,7 +17,3 @@ Run the program:
 ```bash
 python calculator.py
 ```
-
-## Author
-
-Karl
